@@ -1,5 +1,6 @@
 # subtractionUNN
-C:\Users\Scott\Downloads>SB.py
+Base1 Neural Network for subtractions
+C:\Users\user\Downloads>SB.py
 Starting training...
 Completed 1 epochs
 Completed 10000 epochs
