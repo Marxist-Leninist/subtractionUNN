@@ -1,0 +1,9 @@
+{
+  "pairs": 4225,
+  "operations": "pass",
+  "zero_divisor": "rejected",
+  "same_stream_AND": "1/2",
+  "decorrelated_example_AND": "1/4",
+  "training_performed": false,
+  "scope": "bounded constructed arithmetic only"
+}
